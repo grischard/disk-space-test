@@ -47,6 +47,5 @@ jobs:
 
       - name: Final disk space
         run: df -h
-on: push
 
 
